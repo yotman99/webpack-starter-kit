@@ -1,0 +1,20 @@
+{
+  "name": "webpack-starter-kit",
+  "version": "1.0.0",
+  "description": "Un simple boilerplate para un inicio rapido y sin complicaciones de tus aplicaciones web",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --config webpack.config.js"
+  },
+  "keywords": [
+    "webpack-starter-kit",
+    "webpack-boilerplate",
+    "webpack"
+  ],
+  "author": "Yotman Reyes && Francesco Rodriguez",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.1"
+  }
+}
